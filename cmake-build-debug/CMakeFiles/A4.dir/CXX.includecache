@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liamwong/Desktop/School/CSE 250 Summer/A4/a4.cpp
+symbol.hpp
+/Users/liamwong/Desktop/School/CSE 250 Summer/A4/symbol.hpp
+a4.hpp
+/Users/liamwong/Desktop/School/CSE 250 Summer/A4/a4.hpp
+fstream
+-
+iostream
+-
+stdexcept
+-
+string
+-
+vector
+-
+
+/Users/liamwong/Desktop/School/CSE 250 Summer/A4/a4.hpp
+ostream
+-
+symbol.hpp
+/Users/liamwong/Desktop/School/CSE 250 Summer/A4/symbol.hpp
+vector
+-
+algorithm
+-
+queue
+-
+stack
+-
+
+/Users/liamwong/Desktop/School/CSE 250 Summer/A4/symbol.hpp
+
